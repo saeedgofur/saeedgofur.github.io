@@ -1,0 +1,89 @@
+@import url(https://fonts.googleapis.com/css?family=Share+Tech+Mono);
+/*########################################################*/
+
+
+
+body {
+	background: url("https://cdn.wallpapersafari.com/74/31/SE5Gbu.jpg");
+}
+
+
+/*########################################################*/
+
+
+.greeting {
+	color: rgb(0, 160, 0);
+	font-family: "Share Tech Mono";
+}
+
+
+
+h1{
+	text-align: center;
+}
+
+
+/*########################################################*/
+
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    background-color:  rgb(102, 102, 102);
+}
+
+
+li a {
+    display: block;
+    width: 60px;
+}
+
+li {
+    float: left;
+}
+
+li >a {
+    display: block;
+    padding: 8px;
+    background-color: rgb(65, 150, 65);
+}
+
+li {
+    border-right: 0.5px solid rgb(82, 82, 82);
+    border-left: 0.5px solid rgb(82, 82, 82);
+}
+
+
+/*########################################################*/
+
+.facebook {
+    width: 200px;
+    height: 120px;
+}
+
+/* resize images */
+.facebook img {
+    width: 50%;
+    height: auto;
+}
+
+
+.facebook {
+	padding-top: 200px;
+}
+
+/*########################################################*/
+
+.github {
+    width: 800px;
+    height: 665px;
+}
+
+/* resize images */
+.github img {
+    width: auto;
+    height: 20%;
+}
+
+
